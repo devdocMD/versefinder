@@ -1,0 +1,1189 @@
+{
+  "categories": [
+    {
+      "id": "sadness",
+      "label": "슬픔",
+      "icon": "💧",
+      "verses": [
+        {
+          "ref": "시편 34:18",
+          "refEn": "Psalms 34:18",
+          "kr": "여호와는 마음이 상한 자에게 가까이 하시고 중심에 통회하는 자를 구원하시는도다",
+          "en": "Yahweh is near to those who have a broken heart, and saves those who have a crushed spirit."
+        },
+        {
+          "ref": "시편 56:8",
+          "refEn": "Psalms 56:8",
+          "kr": "나의 유리함을 주께서 계수하셨으니 나의 눈물을 주의 병에 담으소서 ! 이것이 주의 책에 기록되지 아니하였나이까 ?",
+          "en": "You count my wanderings. You put my tears into your bottle. Aren’t they in your book?"
+        },
+        {
+          "ref": "시편 30:5",
+          "refEn": "Psalms 30:5",
+          "kr": "그 노염은 잠간이요 그 은총은 평생이로다 저녁에는 울음이 기숙할지라도 아침에는 기쁨이 오리로다",
+          "en": "For his anger is but for a moment. His favor is for a lifetime. Weeping may stay for the night, but joy comes in the morning."
+        },
+        {
+          "ref": "시편 147:3",
+          "refEn": "Psalms 147:3",
+          "kr": "상심한 자를 고치시며 저희 상처를 싸매시는도다",
+          "en": "He heals the broken in heart, and binds up their wounds."
+        },
+        {
+          "ref": "시편 126:5",
+          "refEn": "Psalms 126:5",
+          "kr": "눈물을 흘리며 씨를 뿌리는 자는 기쁨으로 거두리로다",
+          "en": "Those who sow in tears will reap in joy."
+        },
+        {
+          "ref": "시편 34:17",
+          "refEn": "Psalms 34:17",
+          "kr": "의인이 외치매 여호와께서 들으시고 저희의 모든 환난에서 건지셨도다",
+          "en": "The righteous cry, and Yahweh hears, and delivers them out of all their troubles."
+        },
+        {
+          "ref": "이사야 53:4",
+          "refEn": "Isaiah 53:4",
+          "kr": "그는 실로 우리의 질고를 지고 우리의 슬픔을 당하였거늘 우리는 생각하기를 그는 징벌을 받아서 하나님에게 맞으며 고난을 당한다 하였노라",
+          "en": "Surely he has borne our sickness, and carried our suffering; yet we considered him plagued, struck by God, and afflicted."
+        },
+        {
+          "ref": "이사야 61:3",
+          "refEn": "Isaiah 61:3",
+          "kr": "무릇 시온에서 슬퍼하는 자에게 화관을 주어 그 재를 대신하며 희락의 기름으로 그 슬픔을 대신하며 찬송의 옷으로 그 근심을 대신하시고 그들로 의의 나무 곧 여호와의 심으신 바 그 영광을 나타낼 자라 일컬음을 얻게 하려 하심이니라",
+          "en": "to provide for those who mourn in Zion, to give to them a garland for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they may be called trees of righteousness, the planting of Yahweh, that he may be glorified."
+        },
+        {
+          "ref": "마태복음 5:4",
+          "refEn": "Matthew 5:4",
+          "kr": "애통하는 자는 복이 있나니 저희가 위로를 받을 것임이요",
+          "en": "Blessed are those who mourn, for they shall be comforted.Isaiah 61:2; 66:10,13"
+        },
+        {
+          "ref": "요한복음 16:33",
+          "refEn": "John 16:33",
+          "kr": "이것을 너희에게 이름은 너희로 내 안에서 평안을 누리게 하려 함이라 세상에서는 너희가 환난을 당하나 담대하라 ! 내가 세상을 이기었노라 !' 하시니라",
+          "en": "I have told you these things, that in me you may have peace. In the world you have oppression; but cheer up! I have overcome the world.”"
+        },
+        {
+          "ref": "요한계시록 21:4",
+          "refEn": "Revelation 21:4",
+          "kr": "모든 눈물을 그 눈에서 씻기시매 다시 사망이 없고 애통하는 것이나 곡하는 것이나 아픈 것이 다시 있지 아니하리니 처음 것들이 다 지나갔음이러라'",
+          "en": "He will wipe away every tear from their eyes. Death will be no more; neither will there be mourning, nor crying, nor pain, any more. The first things have passed away.”"
+        },
+        {
+          "ref": "고린도후서 1:3",
+          "refEn": "2 Corinthians 1:3",
+          "kr": "찬송하리로다 ! 그는 우리 주 예수 그리스도의 하나님이시요 자비의 아버지시요 모든 위로의 하나님이시며",
+          "en": "Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort;"
+        },
+        {
+          "ref": "고린도후서 1:4",
+          "refEn": "2 Corinthians 1:4",
+          "kr": "우리의 모든 환난 중에서 우리를 위로하사 우리로 하여금 하나님께 받는 위로로써 모든 환난 중에 있는 자들을 능히 위로하게 하시는 이시로다",
+          "en": "who comforts us in all our affliction, that we may be able to comfort those who are in any affliction, through the comfort with which we ourselves are comforted by God."
+        }
+      ]
+    },
+    {
+      "id": "despair",
+      "label": "절망",
+      "icon": "🌑",
+      "verses": [
+        {
+          "ref": "시편 42:11",
+          "refEn": "Psalms 42:11",
+          "kr": "내 영혼아 ! 네가 어찌하여 낙망하며 어찌하여 내 속에서 불안하여 하는고 너는 하나님을 바라라 ! 나는 내 얼굴을 도우시는 내 하나님을 오히려 찬송하리로다",
+          "en": "Why are you in despair, my soul? Why are you disturbed within me? Hope in God! For I shall still praise him, the saving help of my countenance, and my God."
+        },
+        {
+          "ref": "시편 130:1",
+          "refEn": "Psalms 130:1",
+          "kr": "(성전에 올라가는 노래) 여호와여, 내가 깊은 데서 주께 부르짖었나이다",
+          "en": "Out of the depths I have cried to you, Yahweh."
+        },
+        {
+          "ref": "시편 130:2",
+          "refEn": "Psalms 130:2",
+          "kr": "주여, 내 소리를 들으시며 나의 간구하는 소리에 귀를 기울이소서",
+          "en": "Lord, hear my voice. Let your ears be attentive to the voice of my petitions."
+        },
+        {
+          "ref": "시편 40:1",
+          "refEn": "Psalms 40:1",
+          "kr": "(다윗의 시. 영장으로 한 노래) 내가 여호와를 기다리고 기다렸더니 귀를 기울이사 나의 부르짖음을 들으셨도다",
+          "en": "I waited patiently for Yahweh. He turned to me, and heard my cry."
+        },
+        {
+          "ref": "시편 40:2",
+          "refEn": "Psalms 40:2",
+          "kr": "나를 기가 막힐 웅덩이와 수렁에서 끌어 올리시고 내 발을 반석위에 두사 내 걸음을 견고케 하셨도다",
+          "en": "He brought me up also out of a horrible pit, out of the miry clay. He set my feet on a rock, and gave me a firm place to stand."
+        },
+        {
+          "ref": "시편 27:13",
+          "refEn": "Psalms 27:13",
+          "kr": "내가 산 자의 땅에 있음이여 여호와의 은혜 볼 것을 믿었도다",
+          "en": "I am still confident of this: I will see the goodness of Yahweh in the land of the living."
+        },
+        {
+          "ref": "시편 46:1",
+          "refEn": "Psalms 46:1",
+          "kr": "(고라 자손의 시. 영장으로 알라못에 맞춘 노래) 하나님은 우리의 피난처시요 힘이시니 환난 중에 만날 큰 도움이시라",
+          "en": "God is our refuge and strength, a very present help in trouble."
+        },
+        {
+          "ref": "예레미애가 3:22",
+          "refEn": "Lamentations 3:22",
+          "kr": "여호와의 자비와 긍휼이 무궁하시므로 우리가 진멸되지 아니함이니이다",
+          "en": "It is because of Yahweh’s loving kindnesses that we are not consumed, because his compassion doesn’t fail."
+        },
+        {
+          "ref": "예레미애가 3:23",
+          "refEn": "Lamentations 3:23",
+          "kr": "이것이 아침마다 새로우니 주의 성실이 크도소이다",
+          "en": "They are new every morning. Great is your faithfulness."
+        },
+        {
+          "ref": "이사야 40:31",
+          "refEn": "Isaiah 40:31",
+          "kr": "오직 여호와를 앙망하는 자는 새 힘을 얻으리니 독수리의 날개치며 올라감 같을 것이요 달음박질하여도 곤비치 아니하겠고 걸어가도 피곤치 아니하리로다",
+          "en": "But those who wait for Yahweh will renew their strength. They will mount up with wings like eagles. They will run, and not be weary. They will walk, and not faint."
+        },
+        {
+          "ref": "예레미야 29:11",
+          "refEn": "Jeremiah 29:11",
+          "kr": "나 여호와가 말하노라 너희를 향한 나의 생각은 내가 아나니 재앙이 아니라 곧 평안이요 너희 장래에 소망을 주려 하는 생각이라",
+          "en": "For I know the thoughts that I think toward you,” says Yahweh, “thoughts of peace, and not of evil, to give you hope and a future."
+        },
+        {
+          "ref": "로마서 8:28",
+          "refEn": "Romans 8:28",
+          "kr": "우리가 알거니와 하나님을 사랑하는 자 곧 그 뜻대로 부르심을 입은 자들에게는 모든 것이 합력하여 선을 이루느니라",
+          "en": "We know that all things work together for good for those who love God, to those who are called according to his purpose."
+        },
+        {
+          "ref": "고린도후서 4:8",
+          "refEn": "2 Corinthians 4:8",
+          "kr": "우리가 사방으로 우겨쌈을 당하여도 싸이지 아니하며 답답한 일을 당하여도 낙심하지 아니하며",
+          "en": "We are pressed on every side, yet not crushed; perplexed, yet not to despair;"
+        },
+        {
+          "ref": "고린도후서 4:9",
+          "refEn": "2 Corinthians 4:9",
+          "kr": "핍박을 받아도 버린 바 되지 아니하며 거꾸러뜨림을 당하여도 망하지 아니하고",
+          "en": "pursued, yet not forsaken; struck down, yet not destroyed;"
+        }
+      ]
+    },
+    {
+      "id": "discouragement",
+      "label": "낙심",
+      "icon": "🍂",
+      "verses": [
+        {
+          "ref": "여호수아 1:9",
+          "refEn": "Joshua 1:9",
+          "kr": "내가 네게 명한 것이 아니냐 ? 마음을 강하게 하고 담대히 하라 ! 두려워 말며 놀라지 말라 ! 네가 어디로 가든지 네 하나님 여호와가 너와 함께 하느니라 ! 하시니라",
+          "en": "Haven’t I commanded you? Be strong and courageous. Don’t be afraid. Don’t be dismayed, for Yahweh your GodThe Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim). is with you wherever you go.”"
+        },
+        {
+          "ref": "신명기 31:6",
+          "refEn": "Deuteronomy 31:6",
+          "kr": "너는 마음을 강하게 하고 담대히 하라 그들을 두려워 말라 그들 앞에서 떨지 말라 이는 네 하나님 여호와 그가 너와 함께 행하실 것임이라 반드시 너를 떠나지 아니하시며 버리지 아니하시리라 하고",
+          "en": "Be strong and courageous. Don’t be afraid or scared of them; for Yahweh your God himself is who goes with you. He will not fail you nor forsake you.”"
+        },
+        {
+          "ref": "신명기 31:8",
+          "refEn": "Deuteronomy 31:8",
+          "kr": "여호와 그가 네 앞서 행하시며 너와 함께 하사 너를 떠나지 아니하시며 버리지 아니하시리니 너는 두려워 말라 ! 놀라지 말라",
+          "en": "Yahweh himself is who goes before you. He will be with you. He will not fail you nor forsake you. Don’t be afraid. Don’t be discouraged.”"
+        },
+        {
+          "ref": "이사야 41:10",
+          "refEn": "Isaiah 41:10",
+          "kr": "두려워 말라 내가 너와 함께 함이니라 놀라지 말라 나는 네 하나님이 됨이니라 내가 너를 굳세게 하리라 참으로 너를 도와 주리라 참으로 나의 의로운 오른손으로 너를 붙들리라",
+          "en": "Don’t you be afraid, for I am with you. Don’t be dismayed, for I am your God. I will strengthen you. Yes, I will help you. Yes, I will uphold you with the right hand of my righteousness."
+        },
+        {
+          "ref": "이사야 43:2",
+          "refEn": "Isaiah 43:2",
+          "kr": "네가 물 가운데로 지날 때에 내가 함께할 것이라 강을 건널 때에 물이 너를 침몰치 못할 것이며 네가 불 가운데로 행할 때에 타지도 아니할 것이요 불꽃이 너를 사르지도 못하리니",
+          "en": "When you pass through the waters, I will be with you; and through the rivers, they will not overflow you. When you walk through the fire, you will not be burned, and flame will not scorch you."
+        },
+        {
+          "ref": "이사야 40:29",
+          "refEn": "Isaiah 40:29",
+          "kr": "피곤한 자에게는 능력을 주시며 무능한 자에게는 힘을 더하시나니",
+          "en": "He gives power to the weak. He increases the strength of him who has no might."
+        },
+        {
+          "ref": "시편 27:14",
+          "refEn": "Psalms 27:14",
+          "kr": "너는 여호와를 바랄지어다 ! 강하고 담대하며 여호와를 바랄지어다",
+          "en": "Wait for Yahweh. Be strong, and let your heart take courage. Yes, wait for Yahweh."
+        },
+        {
+          "ref": "시편 31:24",
+          "refEn": "Psalms 31:24",
+          "kr": "강하고 담대하라 여호와를 바라는 너희들아",
+          "en": "Be strong, and let your heart take courage, all you who hope in Yahweh."
+        },
+        {
+          "ref": "시편 55:22",
+          "refEn": "Psalms 55:22",
+          "kr": "네 짐을 여호와께 맡겨 버리라 너를 붙드시고 의인의 요동함을 영영히 허락지 아니하시리로다",
+          "en": "Cast your burden on Yahweh, and he will sustain you. He will never allow the righteous to be moved."
+        },
+        {
+          "ref": "빌립보서 4:13",
+          "refEn": "Philippians 4:13",
+          "kr": "내게 능력 주시는 자 안에서 내가 모든 것을 할 수 있느니라",
+          "en": "I can do all things through Christ, who strengthens me."
+        },
+        {
+          "ref": "역대하 20:15",
+          "refEn": "2 Chronicles 20:15",
+          "kr": "야하시엘이 가로되 `온 유다와 예루살렘 거민과 여호사밧 왕이여 들을지어다 ! 여호와께서 너희에게 말씀하시기를 이 큰 무리로 인하여 두려워하거나 놀라지 말라 이 전쟁이 너희에게 속한 것이 아니요 하나님께 속한 것이니라",
+          "en": "and he said, “Listen, all Judah, and you inhabitants of Jerusalem, and you, king Jehoshaphat. Yahweh says to you, ‘Don’t be afraid, and don’t be dismayed because of this great multitude; for the battle is not yours, but God’s."
+        },
+        {
+          "ref": "디모데후서 1:7",
+          "refEn": "2 Timothy 1:7",
+          "kr": "하나님이 우리에게 주신 것은 두려워하는 마음이 아니요 오직 능력과 사랑과 근신하는 마음이니",
+          "en": "For God didn’t give us a spirit of fear, but of power, love, and self-control."
+        }
+      ]
+    },
+    {
+      "id": "anxiety",
+      "label": "걱정·불안",
+      "icon": "🌊",
+      "verses": [
+        {
+          "ref": "빌립보서 4:6",
+          "refEn": "Philippians 4:6",
+          "kr": "아무 것도 염려하지 말고 오직 모든 일에 기도와 간구로 너희 구할 것을 감사함으로 하나님께 아뢰라",
+          "en": "In nothing be anxious, but in everything, by prayer and petition with thanksgiving, let your requests be made known to God."
+        },
+        {
+          "ref": "빌립보서 4:7",
+          "refEn": "Philippians 4:7",
+          "kr": "그리하면 모든 지각에 뛰어난 하나님의 평강이 그리스도 예수 안에서 너희 마음과 생각을 지키시리라",
+          "en": "And the peace of God, which surpasses all understanding, will guard your hearts and your thoughts in Christ Jesus."
+        },
+        {
+          "ref": "마태복음 6:34",
+          "refEn": "Matthew 6:34",
+          "kr": "그러므로 내일 일을 위하여 염려하지 말라 내일 일은 내일 염려할 것이요 한 날 괴로움은 그 날에 족하니라",
+          "en": "Therefore don’t be anxious for tomorrow, for tomorrow will be anxious for itself. Each day’s own evil is sufficient."
+        },
+        {
+          "ref": "마태복음 6:25",
+          "refEn": "Matthew 6:25",
+          "kr": "그러므로 내가 너희에게 이르노니 목숨을 위하여 무엇을 먹을까 ? 무엇을 마실까 ? 몸을 위하여 무엇을 입을까 ? 염려하지 말라 목숨이 음식보다 중하지 아니하며 몸이 의복보다 중하지 아니하냐",
+          "en": "Therefore I tell you, don’t be anxious for your life: what you will eat, or what you will drink; nor yet for your body, what you will wear. Isn’t life more than food, and the body more than clothing?"
+        },
+        {
+          "ref": "시편 46:1",
+          "refEn": "Psalms 46:1",
+          "kr": "(고라 자손의 시. 영장으로 알라못에 맞춘 노래) 하나님은 우리의 피난처시요 힘이시니 환난 중에 만날 큰 도움이시라",
+          "en": "God is our refuge and strength, a very present help in trouble."
+        },
+        {
+          "ref": "시편 23:4",
+          "refEn": "Psalms 23:4",
+          "kr": "내가 사망의 음침한 골짜기로 다닐지라도 해를 두려워하지 않을것은 주께서 나와 함께 하심이라 주의 지팡이와 막대기가 나를 안위하시나이다",
+          "en": "Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me. Your rod and your staff, they comfort me."
+        },
+        {
+          "ref": "시편 94:19",
+          "refEn": "Psalms 94:19",
+          "kr": "내 속에 생각이 많을 때에 주의 위안이 내 영혼을 즐겁게 하시나이다",
+          "en": "In the multitude of my thoughts within me, your comforts delight my soul."
+        },
+        {
+          "ref": "시편 56:3",
+          "refEn": "Psalms 56:3",
+          "kr": "내가 두려워하는 날에는 주를 의지하리이다",
+          "en": "When I am afraid, I will put my trust in you."
+        },
+        {
+          "ref": "시편 55:22",
+          "refEn": "Psalms 55:22",
+          "kr": "네 짐을 여호와께 맡겨 버리라 너를 붙드시고 의인의 요동함을 영영히 허락지 아니하시리로다",
+          "en": "Cast your burden on Yahweh, and he will sustain you. He will never allow the righteous to be moved."
+        },
+        {
+          "ref": "이사야 26:3",
+          "refEn": "Isaiah 26:3",
+          "kr": "주께서 심지가 견고한 자를 평강에 평강으로 지키시리니 이는 그가 주를 의뢰함이니이다",
+          "en": "You will keep whoever’s mind is steadfast in perfect peace, because he trusts in you."
+        },
+        {
+          "ref": "요한복음 14:27",
+          "refEn": "John 14:27",
+          "kr": "평안을 너희에게 끼치노니 곧 나의 평안을 너희에게 주노라 내가 너희에게 주는 것은 세상이 주는 것 같지 아니하니라 너희는 마음에 근심도 말고 두려워하지도 말라",
+          "en": "Peace I leave with you. My peace I give to you; not as the world gives, give I to you. Don’t let your heart be troubled, neither let it be fearful."
+        }
+      ]
+    },
+    {
+      "id": "gratitude",
+      "label": "감사",
+      "icon": "🙏",
+      "verses": [
+        {
+          "ref": "데살로니가전서 5:18",
+          "refEn": "1 Thessalonians 5:18",
+          "kr": "범사에 감사하라 ! 이는 그리스도 예수 안에서 너희를 향하신 하나님의 뜻이니라",
+          "en": "In everything give thanks, for this is the will of God in Christ Jesus toward you."
+        },
+        {
+          "ref": "시편 100:4",
+          "refEn": "Psalms 100:4",
+          "kr": "감사함으로 그 문에 들어가며 찬송함으로 그 궁정에 들어가서 그에게 감사하며 그 이름을 송축할지어다",
+          "en": "Enter into his gates with thanksgiving, into his courts with praise. Give thanks to him, and bless his name."
+        },
+        {
+          "ref": "시편 136:1",
+          "refEn": "Psalms 136:1",
+          "kr": "여호와께 감사하라 ! 그는 선하시며 그 인자하심이 영원함이로다",
+          "en": "Give thanks to Yahweh, for he is good; for his loving kindness endures forever."
+        },
+        {
+          "ref": "시편 103:1",
+          "refEn": "Psalms 103:1",
+          "kr": "(다윗의 시) 내 영혼아 여호와를 송축하라 내 속에 있는 것들아 ! 다 그 성호를 송축하라",
+          "en": "Praise Yahweh, my soul! All that is within me, praise his holy name!"
+        },
+        {
+          "ref": "시편 103:2",
+          "refEn": "Psalms 103:2",
+          "kr": "내 영혼아 여호와를 송축하며 그 모든 은택을 잊지 말지어다",
+          "en": "Praise Yahweh, my soul, and don’t forget all his benefits;"
+        },
+        {
+          "ref": "시편 107:1",
+          "refEn": "Psalms 107:1",
+          "kr": "여호와께 감사하라 ! 그는 선하시며 그 인자하심이 영원함이로다",
+          "en": "Give thanks to Yahweh,“Yahweh” is God’s proper Name, sometimes rendered “LORD” (all caps) in other translations. for he is good, for his loving kindness endures forever."
+        },
+        {
+          "ref": "시편 9:1",
+          "refEn": "Psalms 9:1",
+          "kr": "(다윗의 시. 영장으로 뭇랍벤에 맞춘 노래) 내가 전심으로 여호와께 감사하오며 주의 모든 기사를 전하리이다",
+          "en": "I will give thanks to Yahweh with my whole heart. I will tell of all your marvelous works."
+        },
+        {
+          "ref": "시편 95:2",
+          "refEn": "Psalms 95:2",
+          "kr": "우리가 감사함으로 그 앞에 나아가며 시로 그를 향하여 즐거이 부르자",
+          "en": "Let’s come before his presence with thanksgiving. Let’s extol him with songs!"
+        },
+        {
+          "ref": "골로새서 3:17",
+          "refEn": "Colossians 3:17",
+          "kr": "또 무엇을 하든지 말에나 일에나 다 주 예수의 이름으로 하고 그를 힘입어 하나님 아버지께 감사하라",
+          "en": "Whatever you do, in word or in deed, do all in the name of the Lord Jesus, giving thanks to God the Father, through him."
+        },
+        {
+          "ref": "에베소서 5:20",
+          "refEn": "Ephesians 5:20",
+          "kr": "범사에 우리 주 예수 그리스도의 이름으로 항상 아버지 하나님께 감사하며",
+          "en": "giving thanks always concerning all things in the name of our Lord Jesus Christ, to God, even the Father;"
+        },
+        {
+          "ref": "빌립보서 4:6",
+          "refEn": "Philippians 4:6",
+          "kr": "아무 것도 염려하지 말고 오직 모든 일에 기도와 간구로 너희 구할 것을 감사함으로 하나님께 아뢰라",
+          "en": "In nothing be anxious, but in everything, by prayer and petition with thanksgiving, let your requests be made known to God."
+        }
+      ]
+    },
+    {
+      "id": "joy",
+      "label": "기쁨",
+      "icon": "☀️",
+      "verses": [
+        {
+          "ref": "빌립보서 4:4",
+          "refEn": "Philippians 4:4",
+          "kr": "주 안에서 항상 기뻐하라 ! 내가 다시 말하노니 기뻐하라",
+          "en": "Rejoice in the Lord always! Again I will say, “Rejoice!”"
+        },
+        {
+          "ref": "시편 126:3",
+          "refEn": "Psalms 126:3",
+          "kr": "여호와를 위하여 대사를 행하셨으니 우리는 기쁘도다",
+          "en": "Yahweh has done great things for us, and we are glad."
+        },
+        {
+          "ref": "시편 126:5",
+          "refEn": "Psalms 126:5",
+          "kr": "눈물을 흘리며 씨를 뿌리는 자는 기쁨으로 거두리로다",
+          "en": "Those who sow in tears will reap in joy."
+        },
+        {
+          "ref": "시편 28:7",
+          "refEn": "Psalms 28:7",
+          "kr": "여호와는 나의 힘과 나의 방패시니 내 마음이 저를 의지하여 도움을 얻었도다 그러므로 내 마음이 크게 기뻐하며 내 노래로 저를 찬송하리로다",
+          "en": "Yahweh is my strength and my shield. My heart has trusted in him, and I am helped. Therefore my heart greatly rejoices. With my song I will thank him."
+        },
+        {
+          "ref": "시편 30:5",
+          "refEn": "Psalms 30:5",
+          "kr": "그 노염은 잠간이요 그 은총은 평생이로다 저녁에는 울음이 기숙할지라도 아침에는 기쁨이 오리로다",
+          "en": "For his anger is but for a moment. His favor is for a lifetime. Weeping may stay for the night, but joy comes in the morning."
+        },
+        {
+          "ref": "느헤미야 8:10",
+          "refEn": "Nehemiah 8:10",
+          "kr": "느헤미야가 또 이르기를 `너희는 가서 살진 것을 먹고 단 것을 마시되 예비치 못한 자에게는 너희가 나누어 주라 이 날은 우리 주의 성일이니 근심하지 말라 ! 여호와를 기뻐하는 것이 너희의 힘이니라 !' 하고",
+          "en": "Then he said to them, “Go your way. Eat the fat, drink the sweet, and send portions to him for whom nothing is prepared, for today is holy to our Lord. Don’t be grieved, for the joy of Yahweh is your strength.”"
+        },
+        {
+          "ref": "로마서 15:13",
+          "refEn": "Romans 15:13",
+          "kr": "소망의 하나님이 모든 기쁨과 평강을 믿음 안에서 너희에게 충만케 하사 성령의 능력으로 소망이 넘치게 하시기를 원하노라",
+          "en": "Now may the God of hope fill you with all joy and peace in believing, that you may abound in hope, in the power of the Holy Spirit."
+        },
+        {
+          "ref": "하박국 3:18",
+          "refEn": "Habakkuk 3:18",
+          "kr": "나는 여호와를 인하여 즐거워하며 나의 구원의 하나님을 인하여 기뻐하리로다",
+          "en": "yet I will rejoice in Yahweh. I will be joyful in the God of my salvation!"
+        },
+        {
+          "ref": "요한복음 15:11",
+          "refEn": "John 15:11",
+          "kr": "내가 이것을 너희에게 이름은 내 기쁨이 너희 안에 있어 너희 기쁨을 충만하게 하려 함이니라",
+          "en": "I have spoken these things to you, that my joy may remain in you, and that your joy may be made full."
+        },
+        {
+          "ref": "갈라디아서 5:22",
+          "refEn": "Galatians 5:22",
+          "kr": "오직 성령의 열매는 사랑과, 희락과, 화평과, 오래 참음과, 자비와, 양선과, 충성과,",
+          "en": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faith,or, faithfulness"
+        },
+        {
+          "ref": "야고보서 1:2",
+          "refEn": "James 1:2",
+          "kr": "내 형제들아 ! 너희가 여러 가지 시험을 만나거든 온전히 기쁘게 여기라",
+          "en": "Count it all joy, my brothers,The word for “brothers” here and where context allows may also be correctly translated “brothers and sisters” or “siblings.” when you fall into various temptations,"
+        }
+      ]
+    },
+    {
+      "id": "hope",
+      "label": "소망",
+      "icon": "🌅",
+      "verses": [
+        {
+          "ref": "예레미야 29:11",
+          "refEn": "Jeremiah 29:11",
+          "kr": "나 여호와가 말하노라 너희를 향한 나의 생각은 내가 아나니 재앙이 아니라 곧 평안이요 너희 장래에 소망을 주려 하는 생각이라",
+          "en": "For I know the thoughts that I think toward you,” says Yahweh, “thoughts of peace, and not of evil, to give you hope and a future."
+        },
+        {
+          "ref": "로마서 8:24",
+          "refEn": "Romans 8:24",
+          "kr": "우리가 소망으로 구원을 얻었으매 보이는 소망이 소망이 아니니 보는 것을 누가 바라리요",
+          "en": "For we were saved in hope, but hope that is seen is not hope. For who hopes for that which he sees?"
+        },
+        {
+          "ref": "로마서 8:25",
+          "refEn": "Romans 8:25",
+          "kr": "만일 우리가 보지 못하는 것을 바라면 참음으로 기다릴지니라",
+          "en": "But if we hope for that which we don’t see, we wait for it with patience."
+        },
+        {
+          "ref": "로마서 15:13",
+          "refEn": "Romans 15:13",
+          "kr": "소망의 하나님이 모든 기쁨과 평강을 믿음 안에서 너희에게 충만케 하사 성령의 능력으로 소망이 넘치게 하시기를 원하노라",
+          "en": "Now may the God of hope fill you with all joy and peace in believing, that you may abound in hope, in the power of the Holy Spirit."
+        },
+        {
+          "ref": "히브리서 11:1",
+          "refEn": "Hebrews 11:1",
+          "kr": "믿음은 바라는 것들의 실상이요 보지 못하는 것들의 증거니",
+          "en": "Now faith is assurance of things hoped for, proof of things not seen."
+        },
+        {
+          "ref": "이사야 40:31",
+          "refEn": "Isaiah 40:31",
+          "kr": "오직 여호와를 앙망하는 자는 새 힘을 얻으리니 독수리의 날개치며 올라감 같을 것이요 달음박질하여도 곤비치 아니하겠고 걸어가도 피곤치 아니하리로다",
+          "en": "But those who wait for Yahweh will renew their strength. They will mount up with wings like eagles. They will run, and not be weary. They will walk, and not faint."
+        },
+        {
+          "ref": "시편 62:5",
+          "refEn": "Psalms 62:5",
+          "kr": "나의 영혼아, 잠잠히 하나님만 바라라 ! 대저 나의 소망이 저로 좇아 나는도다",
+          "en": "My soul, wait in silence for God alone, for my expectation is from him."
+        },
+        {
+          "ref": "시편 39:7",
+          "refEn": "Psalms 39:7",
+          "kr": "주여, 내가 무엇을 바라리요 나의 소망은 주께 있나이다",
+          "en": "Now, Lord, what do I wait for? My hope is in you."
+        },
+        {
+          "ref": "시편 130:5",
+          "refEn": "Psalms 130:5",
+          "kr": "나 곧 내 영혼이 여호와를 기다리며 내가 그 말씀을 바라는도다",
+          "en": "I wait for Yahweh. My soul waits. I hope in his word."
+        },
+        {
+          "ref": "시편 71:5",
+          "refEn": "Psalms 71:5",
+          "kr": "주 여호와여, 주는 나의 소망이시요 나의 어릴 때부터 의지시라",
+          "en": "For you are my hope, Lord Yahweh; my confidence from my youth."
+        },
+        {
+          "ref": "잠언 23:18",
+          "refEn": "Proverbs 23:18",
+          "kr": "정녕히 네 장래가 있겠고 네 소망이 끊어지지 아니하리라",
+          "en": "Indeed surely there is a future hope, and your hope will not be cut off."
+        },
+        {
+          "ref": "예레미야 17:7",
+          "refEn": "Jeremiah 17:7",
+          "kr": "그러나 무릇 여호와를 의지하며 여호와를 의뢰하는 그 사람은 복을 받을 것이라",
+          "en": "“Blessed is the man who trusts in Yahweh, and whose confidence is in Yahweh."
+        }
+      ]
+    },
+    {
+      "id": "love",
+      "label": "사랑",
+      "icon": "❤️",
+      "verses": [
+        {
+          "ref": "고린도전서 13:4",
+          "refEn": "1 Corinthians 13:4",
+          "kr": "사랑은 오래 참고, 사랑은 온유하며, 투기하는 자가 되지 아니하며, 사랑은 자랑하지 아니하며, 교만하지 아니하며",
+          "en": "Love is patient and is kind; love doesn’t envy. Love doesn’t brag, is not proud,"
+        },
+        {
+          "ref": "고린도전서 13:5",
+          "refEn": "1 Corinthians 13:5",
+          "kr": "무례히 행치 아니하며, 자기의 유익을 구치 아니하며, 성내지 아니하며, 악한 것을 생각지 아니하며",
+          "en": "doesn’t behave itself inappropriately, doesn’t seek its own way, is not provoked, takes no account of evil;"
+        },
+        {
+          "ref": "고린도전서 13:6",
+          "refEn": "1 Corinthians 13:6",
+          "kr": "불의를 기뻐하지 아니하며, 진리와 함께 기뻐하고",
+          "en": "doesn’t rejoice in unrighteousness, but rejoices with the truth;"
+        },
+        {
+          "ref": "고린도전서 13:7",
+          "refEn": "1 Corinthians 13:7",
+          "kr": "모든 것을 참으며, 모든 것을 믿으며, 모든 것을 바라며, 모든 것을 견디느니라",
+          "en": "bears all things, believes all things, hopes all things, endures all things."
+        },
+        {
+          "ref": "고린도전서 13:13",
+          "refEn": "1 Corinthians 13:13",
+          "kr": "그런즉 믿음, 소망, 사랑, 이 세가지는 항상 있을 것인데 그 중에 제일은 사랑이라",
+          "en": "But now faith, hope, and love remain—these three. The greatest of these is love."
+        },
+        {
+          "ref": "요한일서 4:8",
+          "refEn": "1 John 4:8",
+          "kr": "사랑하지 아니하는 자는 하나님을 알지 못하나니 이는 하나님은 사랑이심이라",
+          "en": "He who doesn’t love doesn’t know God, for God is love."
+        },
+        {
+          "ref": "요한일서 4:19",
+          "refEn": "1 John 4:19",
+          "kr": "우리가 사랑함은 그가 먼저 우리를 사랑하셨음이라",
+          "en": "We love him, because he first loved us."
+        },
+        {
+          "ref": "요한복음 3:16",
+          "refEn": "John 3:16",
+          "kr": "하나님이 세상을 이처럼 사랑하사 독생자를 주셨으니 이는 저를 믿는 자마다 멸망치 않고 영생을 얻게 하려 하심이니라",
+          "en": "For God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life."
+        },
+        {
+          "ref": "요한복음 15:13",
+          "refEn": "John 15:13",
+          "kr": "사람이 친구를 위하여 자기 목숨을 버리면 이에서 더 큰 사랑이 없나니",
+          "en": "Greater love has no one than this, that someone lay down his life for his friends."
+        },
+        {
+          "ref": "로마서 8:38",
+          "refEn": "Romans 8:38",
+          "kr": "내가 확신하노니 사망이나 생명이나 천사들이나 권세자들이나 현재 일이나 장래 일이나 능력이나",
+          "en": "For I am persuaded that neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers,"
+        },
+        {
+          "ref": "로마서 8:39",
+          "refEn": "Romans 8:39",
+          "kr": "높음이나 깊음이나 다른 아무 피조물이라도 우리를 우리 주 그리스도 예수 안에 있는 하나님의 사랑에서 끊을 수 없으리라",
+          "en": "nor height, nor depth, nor any other created thing, will be able to separate us from God’s love, which is in Christ Jesus our Lord."
+        },
+        {
+          "ref": "아가 8:7",
+          "refEn": "Song of Solomon 8:7",
+          "kr": "이 사랑은 많은 물이 꺼치지 못하겠고 홍수라도 엄몰하지 못하나니 사람이 그 온 가산을 다 주고 사랑과 바꾸려 할지라도 오히려 멸시를 받으리라",
+          "en": "Many waters can’t quench love, neither can floods drown it. If a man would give all the wealth of his house for love, he would be utterly scorned."
+        }
+      ]
+    },
+    {
+      "id": "marriage",
+      "label": "결혼",
+      "icon": "💍",
+      "verses": [
+        {
+          "ref": "창세기 2:24",
+          "refEn": "Genesis 2:24",
+          "kr": "이러므로 남자가 부모를 떠나 그 아내와 연합하여 둘이 한 몸을 이룰지로다",
+          "en": "Therefore a man will leave his father and his mother, and will join with his wife, and they will be one flesh."
+        },
+        {
+          "ref": "에베소서 5:25",
+          "refEn": "Ephesians 5:25",
+          "kr": "남편들아 ! 아내 사랑하기를 그리스도께서 교회를 사랑하시고 위하여 자신을 주심같이 하라",
+          "en": "Husbands, love your wives, even as Christ also loved the assembly, and gave himself up for it;"
+        },
+        {
+          "ref": "에베소서 5:33",
+          "refEn": "Ephesians 5:33",
+          "kr": "그러나 너희도 각각 자기의 아내 사랑하기를 자기같이 하고 아내도 그 남편을 경외하라",
+          "en": "Nevertheless each of you must also love his own wife even as himself; and let the wife see that she respects her husband."
+        },
+        {
+          "ref": "잠언 31:10",
+          "refEn": "Proverbs 31:10",
+          "kr": "누가 현숙한 여인을 찾아 얻겠느냐 그 값은 진주보다 더 하니라",
+          "en": "Proverbs 31:10-31 form an acrostic, with each verse starting with each letter of the Hebrew alphabet, in order.Who can find a worthy woman? For her price is far above rubies."
+        },
+        {
+          "ref": "잠언 18:22",
+          "refEn": "Proverbs 18:22",
+          "kr": "아내를 얻는 자는 복을 얻고 여호와께 은총을 받는 자니라",
+          "en": "Whoever finds a wife finds a good thing, and obtains favor of Yahweh."
+        },
+        {
+          "ref": "전도서 4:9",
+          "refEn": "Ecclesiastes 4:9",
+          "kr": "두 사람이 한 사람보다 나음은 저희가 수고함으로 좋은 상을 얻을 것임이라",
+          "en": "Two are better than one, because they have a good reward for their labor."
+        },
+        {
+          "ref": "전도서 4:10",
+          "refEn": "Ecclesiastes 4:10",
+          "kr": "혹시 저희가 넘어지면 하나가 그 동무를 붙들어 일으키려니와 홀로 있어 넘어지고 붙들어 일으킬 자가 없는 자에게는 화가 있으리라",
+          "en": "For if they fall, the one will lift up his fellow; but woe to him who is alone when he falls, and doesn’t have another to lift him up."
+        },
+        {
+          "ref": "전도서 4:12",
+          "refEn": "Ecclesiastes 4:12",
+          "kr": "한 사람이면 패하겠거니와 두 사람이면 능히 당하나니 삼겹 줄은 쉽게 끊어지지 아니하느니라",
+          "en": "If a man prevails against one who is alone, two shall withstand him; and a threefold cord is not quickly broken."
+        },
+        {
+          "ref": "골로새서 3:14",
+          "refEn": "Colossians 3:14",
+          "kr": "이 모든 것 위에 사랑을 더하라 이는 온전하게 매는 띠니라",
+          "en": "Above all these things, walk in love, which is the bond of perfection."
+        },
+        {
+          "ref": "베드로전서 3:7",
+          "refEn": "1 Peter 3:7",
+          "kr": "남편된 자들아 ! 이와 같이 지식을 따라 너희 아내와 동거하고 저는 더 연약한 그릇이요 또 생명의 은혜를 유업으로 함께 받을 자로 알아 귀히 여기라 이는 너희 기도가 막히지 아니하게 하려 함이라",
+          "en": "You husbands, in the same way, live with your wives according to knowledge, giving honor to the woman, as to the weaker vessel, as being also joint heirs of the grace of life; that your prayers may not be hindered."
+        },
+        {
+          "ref": "마가복음 10:9",
+          "refEn": "Mark 10:9",
+          "kr": "그러므로 하나님이 짝지어 주신 것을 사람이 나누지 못할지니라' 하시더라",
+          "en": "What therefore God has joined together, let no man separate.”"
+        },
+        {
+          "ref": "히브리서 13:4",
+          "refEn": "Hebrews 13:4",
+          "kr": "모든 사람은 혼인을 귀히 여기고 침소를 더럽히지 않게 하라 음행하는 자들과 간음하는 자들을 하나님이 심판하시리라",
+          "en": "Let marriage be held in honor among all, and let the bed be undefiled: but God will judge the sexually immoral and adulterers."
+        }
+      ]
+    },
+    {
+      "id": "parenting",
+      "label": "육아",
+      "icon": "👶",
+      "verses": [
+        {
+          "ref": "잠언 22:6",
+          "refEn": "Proverbs 22:6",
+          "kr": "마땅히 행할 길을 아이에게 가르치라 그리하면 늙어도 그것을 떠나지 아니하리라",
+          "en": "Train up a child in the way he should go, and when he is old he will not depart from it."
+        },
+        {
+          "ref": "잠언 29:17",
+          "refEn": "Proverbs 29:17",
+          "kr": "네 자식을 징계하라 그리하면 그가 너를 평안하게 하겠고 또 네 마음에 기쁨을 주리라",
+          "en": "Correct your son, and he will give you peace; yes, he will bring delight to your soul."
+        },
+        {
+          "ref": "잠언 1:8",
+          "refEn": "Proverbs 1:8",
+          "kr": "내 아들아 네 아비의 훈계를 들으며 네 어미의 법을 떠나지 말라",
+          "en": "My son, listen to your father’s instruction, and don’t forsake your mother’s teaching:"
+        },
+        {
+          "ref": "잠언 17:6",
+          "refEn": "Proverbs 17:6",
+          "kr": "손자는 노인의 면류관이요 아비는 자식의 영화니라",
+          "en": "Children’s children are the crown of old men; the glory of children are their parents."
+        },
+        {
+          "ref": "신명기 6:6",
+          "refEn": "Deuteronomy 6:6",
+          "kr": "오늘날 내가 네게 명하는 이 말씀을 너는 마음에 새기고",
+          "en": "These words, which I command you today, shall be on your heart;"
+        },
+        {
+          "ref": "신명기 6:7",
+          "refEn": "Deuteronomy 6:7",
+          "kr": "네 자녀에게 부지런히 가르치며 집에 앉았을 때에든지, 길에 행할때에든지, 누웠을 때에든지, 일어날 때에든지, 이 말씀을 강론할 것이며",
+          "en": "and you shall teach them diligently to your children, and shall talk of them when you sit in your house, and when you walk by the way, and when you lie down, and when you rise up."
+        },
+        {
+          "ref": "시편 127:3",
+          "refEn": "Psalms 127:3",
+          "kr": "자식은 여호와의 주신 기업이요 태의 열매는 그의 상급이로다",
+          "en": "Behold, children are a heritage of Yahweh. The fruit of the womb is his reward."
+        },
+        {
+          "ref": "시편 128:3",
+          "refEn": "Psalms 128:3",
+          "kr": "네 집 내실에 있는 네 아내는 결실한 포도나무 같으며 네 상에 둘린 자식은 어린 감람나무 같으리로다",
+          "en": "Your wife will be as a fruitful vine, in the innermost parts of your house; your children like olive plants, around your table."
+        },
+        {
+          "ref": "에베소서 6:4",
+          "refEn": "Ephesians 6:4",
+          "kr": "또 아비들아 ! 너희 자녀를 노엽게 하지 말고 오직 주의 교양과 훈계로 양육하라",
+          "en": "You fathers, don’t provoke your children to wrath, but nurture them in the discipline and instruction of the Lord."
+        },
+        {
+          "ref": "이사야 54:13",
+          "refEn": "Isaiah 54:13",
+          "kr": "네 모든 자녀는 여호와의 교훈을 받을 것이니 네 자녀는 크게 평강할 것이며",
+          "en": "All your children will be taught by Yahweh; and your children’s peace will be great."
+        },
+        {
+          "ref": "요한삼서 1:4",
+          "refEn": "3 John 1:4",
+          "kr": "내가 내 자녀들이 진리 안에서 행한다 함을 듣는 것보다 더 즐거움이 없도다",
+          "en": "I have no greater joy than this, to hear about my children walking in truth."
+        },
+        {
+          "ref": "시편 103:13",
+          "refEn": "Psalms 103:13",
+          "kr": "아비가 자식을 불쌍히 여김 같이 여호와께서 자기를 경외하는 자를 불쌍히 여기시나니",
+          "en": "Like a father has compassion on his children, so Yahweh has compassion on those who fear him."
+        }
+      ]
+    },
+    {
+      "id": "comfort",
+      "label": "위로",
+      "icon": "🤗",
+      "verses": [
+        {
+          "ref": "고린도후서 1:3",
+          "refEn": "2 Corinthians 1:3",
+          "kr": "찬송하리로다 ! 그는 우리 주 예수 그리스도의 하나님이시요 자비의 아버지시요 모든 위로의 하나님이시며",
+          "en": "Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort;"
+        },
+        {
+          "ref": "고린도후서 1:4",
+          "refEn": "2 Corinthians 1:4",
+          "kr": "우리의 모든 환난 중에서 우리를 위로하사 우리로 하여금 하나님께 받는 위로로써 모든 환난 중에 있는 자들을 능히 위로하게 하시는 이시로다",
+          "en": "who comforts us in all our affliction, that we may be able to comfort those who are in any affliction, through the comfort with which we ourselves are comforted by God."
+        },
+        {
+          "ref": "이사야 66:13",
+          "refEn": "Isaiah 66:13",
+          "kr": "어미가 자식을 위로함 같이 내가 너희를 위로할 것인즉 너희가 예루살렘에서 위로를 받으리니",
+          "en": "As one whom his mother comforts, so will I comfort you. You will be comforted in Jerusalem.”"
+        },
+        {
+          "ref": "이사야 41:10",
+          "refEn": "Isaiah 41:10",
+          "kr": "두려워 말라 내가 너와 함께 함이니라 놀라지 말라 나는 네 하나님이 됨이니라 내가 너를 굳세게 하리라 참으로 너를 도와 주리라 참으로 나의 의로운 오른손으로 너를 붙들리라",
+          "en": "Don’t you be afraid, for I am with you. Don’t be dismayed, for I am your God. I will strengthen you. Yes, I will help you. Yes, I will uphold you with the right hand of my righteousness."
+        },
+        {
+          "ref": "이사야 49:13",
+          "refEn": "Isaiah 49:13",
+          "kr": "하늘이여 ! 노래하라 땅이여 ! 기뻐하라 산들이여 ! 즐거이 노래하라 여호와가 그 백성을 위로하였은즉 그 고난 당한 자를 긍휼히 여길 것임이니라",
+          "en": "Sing, heavens; and be joyful, earth; and break out into singing, mountains: for Yahweh has comforted his people, and will have compassion on his afflicted."
+        },
+        {
+          "ref": "시편 23:4",
+          "refEn": "Psalms 23:4",
+          "kr": "내가 사망의 음침한 골짜기로 다닐지라도 해를 두려워하지 않을것은 주께서 나와 함께 하심이라 주의 지팡이와 막대기가 나를 안위하시나이다",
+          "en": "Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me. Your rod and your staff, they comfort me."
+        },
+        {
+          "ref": "시편 34:18",
+          "refEn": "Psalms 34:18",
+          "kr": "여호와는 마음이 상한 자에게 가까이 하시고 중심에 통회하는 자를 구원하시는도다",
+          "en": "Yahweh is near to those who have a broken heart, and saves those who have a crushed spirit."
+        },
+        {
+          "ref": "시편 46:1",
+          "refEn": "Psalms 46:1",
+          "kr": "(고라 자손의 시. 영장으로 알라못에 맞춘 노래) 하나님은 우리의 피난처시요 힘이시니 환난 중에 만날 큰 도움이시라",
+          "en": "God is our refuge and strength, a very present help in trouble."
+        },
+        {
+          "ref": "마태복음 11:28",
+          "refEn": "Matthew 11:28",
+          "kr": "수고하고 무거운 짐진 자들아 ! 다 내게로 오라 내가 너희를 쉬게 하리라",
+          "en": "“Come to me, all you who labor and are heavily burdened, and I will give you rest."
+        },
+        {
+          "ref": "마태복음 5:4",
+          "refEn": "Matthew 5:4",
+          "kr": "애통하는 자는 복이 있나니 저희가 위로를 받을 것임이요",
+          "en": "Blessed are those who mourn, for they shall be comforted.Isaiah 61:2; 66:10,13"
+        },
+        {
+          "ref": "요한복음 14:27",
+          "refEn": "John 14:27",
+          "kr": "평안을 너희에게 끼치노니 곧 나의 평안을 너희에게 주노라 내가 너희에게 주는 것은 세상이 주는 것 같지 아니하니라 너희는 마음에 근심도 말고 두려워하지도 말라",
+          "en": "Peace I leave with you. My peace I give to you; not as the world gives, give I to you. Don’t let your heart be troubled, neither let it be fearful."
+        },
+        {
+          "ref": "요한계시록 21:4",
+          "refEn": "Revelation 21:4",
+          "kr": "모든 눈물을 그 눈에서 씻기시매 다시 사망이 없고 애통하는 것이나 곡하는 것이나 아픈 것이 다시 있지 아니하리니 처음 것들이 다 지나갔음이러라'",
+          "en": "He will wipe away every tear from their eyes. Death will be no more; neither will there be mourning, nor crying, nor pain, any more. The first things have passed away.”"
+        }
+      ]
+    },
+    {
+      "id": "forgiveness",
+      "label": "용서",
+      "icon": "🕊️",
+      "verses": [
+        {
+          "ref": "에베소서 4:32",
+          "refEn": "Ephesians 4:32",
+          "kr": "서로 인자하게 하며 불쌍히 여기며 서로 용서하기를 하나님이 그리스도 안에서 너희를 용서하심과 같이 하라",
+          "en": "And be kind to one another, tender hearted, forgiving each other, just as God also in Christ forgave you."
+        },
+        {
+          "ref": "골로새서 3:13",
+          "refEn": "Colossians 3:13",
+          "kr": "누가 뉘게 혐의가 있거든 서로 용납하여 피차 용서하되 주께서 너희를 용서하신 것과 같이 너희도 그리하고",
+          "en": "bearing with one another, and forgiving each other, if any man has a complaint against any; even as Christ forgave you, so you also do."
+        },
+        {
+          "ref": "마태복음 6:14",
+          "refEn": "Matthew 6:14",
+          "kr": "너희가 사람의 과실을 용서하면 너희 천부께서도 너희 과실을 용서하시려니와",
+          "en": "“For if you forgive men their trespasses, your heavenly Father will also forgive you."
+        },
+        {
+          "ref": "마태복음 18:21",
+          "refEn": "Matthew 18:21",
+          "kr": "그 때에 베드로가 나아와 가로되 `주여, 형제가 내게 죄를 범하면 몇 번이나 용서하여 주리이까 ? 일곱 번까지 하오리이까 ?'",
+          "en": "Then Peter came and said to him, “Lord, how often shall my brother sin against me, and I forgive him? Until seven times?”"
+        },
+        {
+          "ref": "마태복음 18:22",
+          "refEn": "Matthew 18:22",
+          "kr": "예수께서 가라사대 네게 이르노니 일곱번뿐 아니라 일흔 번씩 일곱번이라도 할지니라",
+          "en": "Jesus said to him, “I don’t tell you until seven times, but, until seventy times seven."
+        },
+        {
+          "ref": "시편 103:12",
+          "refEn": "Psalms 103:12",
+          "kr": "동이 서에서 먼 것 같이 우리 죄과를 우리에게서 멀리 옮기셨으며",
+          "en": "As far as the east is from the west, so far has he removed our transgressions from us."
+        },
+        {
+          "ref": "시편 32:5",
+          "refEn": "Psalms 32:5",
+          "kr": "내가 이르기를 내 허물을 여호와께 자복하리라 하고 주께 내 죄를 아뢰고 내 죄악을 숨기지 아니하였더니 곧 주께서 내 죄의 악을 사하셨나이다 (셀라)",
+          "en": "I acknowledged my sin to you. I didn’t hide my iniquity. I said, I will confess my transgressions to Yahweh, and you forgave the iniquity of my sin. Selah."
+        },
+        {
+          "ref": "미가 7:18",
+          "refEn": "Micah 7:18",
+          "kr": "주와 같은 신이 어디 있으리이까 주께서는 죄악을 사유하시며 그 기업의 남은 자의 허물을 넘기시며 인애를 기뻐하심으로 노를 항상 품지 아니하시나이다",
+          "en": "Who is a God like you, who pardons iniquity, and passes over the disobedience of the remnant of his heritage? He doesn’t retain his anger forever, because he delights in loving kindness."
+        },
+        {
+          "ref": "요한일서 1:9",
+          "refEn": "1 John 1:9",
+          "kr": "만일 우리가 우리 죄를 자백하면 저는 미쁘시고 의로우사 우리 죄를 사하시며 모든 불의에서 우리를 깨끗케 하실 것이요",
+          "en": "If we confess our sins, he is faithful and righteous to forgive us the sins, and to cleanse us from all unrighteousness."
+        },
+        {
+          "ref": "이사야 1:18",
+          "refEn": "Isaiah 1:18",
+          "kr": "여호와께서 말씀하시되 오라, 우리가 서로 변론하자 너희 죄가 주홍 같을 지라도 눈과 같이 희어질 것이요 진홍 같이 붉을지라도 양털 같이 되리라",
+          "en": "“Come now, and let us reason together,” says Yahweh: “Though your sins be as scarlet, they shall be as white as snow. Though they be red like crimson, they shall be as wool."
+        },
+        {
+          "ref": "이사야 43:25",
+          "refEn": "Isaiah 43:25",
+          "kr": "나 곧 나는 나를 위하여 네 허물을 도말하는 자니 네 죄를 기억지 아니하리라",
+          "en": "I, even I, am he who blots out your transgressions for my own sake; and I will not remember your sins."
+        },
+        {
+          "ref": "잠언 17:9",
+          "refEn": "Proverbs 17:9",
+          "kr": "허물을 덮어 주는 자는 사랑을 구하는 자요 그것을 거듭 말하는 자는 친한 벗을 이간하는 자니라",
+          "en": "He who covers an offense promotes love; but he who repeats a matter separates best friends."
+        }
+      ]
+    },
+    {
+      "id": "patience",
+      "label": "인내",
+      "icon": "⏳",
+      "verses": [
+        {
+          "ref": "야고보서 1:2",
+          "refEn": "James 1:2",
+          "kr": "내 형제들아 ! 너희가 여러 가지 시험을 만나거든 온전히 기쁘게 여기라",
+          "en": "Count it all joy, my brothers,The word for “brothers” here and where context allows may also be correctly translated “brothers and sisters” or “siblings.” when you fall into various temptations,"
+        },
+        {
+          "ref": "야고보서 1:3",
+          "refEn": "James 1:3",
+          "kr": "이는 너희 믿음의 시련이 인내를 만들어 내는 줄 너희가 앎이라",
+          "en": "knowing that the testing of your faith produces endurance."
+        },
+        {
+          "ref": "야고보서 1:4",
+          "refEn": "James 1:4",
+          "kr": "인내를 온전히 이루라 이는 너희로 온전하고 구비하여 조금도 부족함이 없게 하려 함이라",
+          "en": "Let endurance have its perfect work, that you may be perfect and complete, lacking in nothing."
+        },
+        {
+          "ref": "로마서 5:3",
+          "refEn": "Romans 5:3",
+          "kr": "다만 이뿐 아니라 우리가 환난중에도 즐거워하나니 이는 환난은 인내를",
+          "en": "Not only this, but we also rejoice in our sufferings, knowing that suffering produces perseverance;"
+        },
+        {
+          "ref": "로마서 5:4",
+          "refEn": "Romans 5:4",
+          "kr": "인내는 연단을 연단은 소망을 이루는 줄 앎이로다",
+          "en": "and perseverance, proven character; and proven character, hope:"
+        },
+        {
+          "ref": "갈라디아서 6:9",
+          "refEn": "Galatians 6:9",
+          "kr": "우리가 선을 행하되 낙심하지 말지니 피곤하지 아니하면 때가 이르매 거두리라",
+          "en": "Let us not be weary in doing good, for we will reap in due season, if we don’t give up."
+        },
+        {
+          "ref": "히브리서 10:36",
+          "refEn": "Hebrews 10:36",
+          "kr": "너희에게 인내가 필요함은 너희가 하나님의 뜻을 행한 후에 약속을 받기 위함이라",
+          "en": "For you need endurance so that, having done the will of God, you may receive the promise."
+        },
+        {
+          "ref": "하박국 2:3",
+          "refEn": "Habakkuk 2:3",
+          "kr": "이 묵시는 정한 때가 있나니 그 종말이 속히 이르겠고 결코 거짓되지 아니하리라 비록 더딜지라도 기다리라 지체되지 않고 정녕 응하리라",
+          "en": "For the vision is yet for the appointed time, and it hurries toward the end, and won’t prove false. Though it takes time, wait for it; because it will surely come. It won’t delay."
+        },
+        {
+          "ref": "시편 37:7",
+          "refEn": "Psalms 37:7",
+          "kr": "여호와 앞에 잠잠하고 참아 기다리라 ! 자기 길이 형통하며 악한 꾀를 이루는 자를 인하여 불평하여 말지어다",
+          "en": "Rest in Yahweh, and wait patiently for him. Don’t fret because of him who prospers in his way, because of the man who makes wicked plots happen."
+        },
+        {
+          "ref": "시편 27:14",
+          "refEn": "Psalms 27:14",
+          "kr": "너는 여호와를 바랄지어다 ! 강하고 담대하며 여호와를 바랄지어다",
+          "en": "Wait for Yahweh. Be strong, and let your heart take courage. Yes, wait for Yahweh."
+        },
+        {
+          "ref": "이사야 40:31",
+          "refEn": "Isaiah 40:31",
+          "kr": "오직 여호와를 앙망하는 자는 새 힘을 얻으리니 독수리의 날개치며 올라감 같을 것이요 달음박질하여도 곤비치 아니하겠고 걸어가도 피곤치 아니하리로다",
+          "en": "But those who wait for Yahweh will renew their strength. They will mount up with wings like eagles. They will run, and not be weary. They will walk, and not faint."
+        },
+        {
+          "ref": "예레미애가 3:25",
+          "refEn": "Lamentations 3:25",
+          "kr": "무릇 기다리는 자에게나 구하는 영혼에게 여호와께서 선을 베푸시는 도다",
+          "en": "Yahweh is good to those who wait for him, to the soul who seeks him."
+        }
+      ]
+    },
+    {
+      "id": "faith",
+      "label": "믿음",
+      "icon": "⛰️",
+      "verses": [
+        {
+          "ref": "히브리서 11:1",
+          "refEn": "Hebrews 11:1",
+          "kr": "믿음은 바라는 것들의 실상이요 보지 못하는 것들의 증거니",
+          "en": "Now faith is assurance of things hoped for, proof of things not seen."
+        },
+        {
+          "ref": "히브리서 11:6",
+          "refEn": "Hebrews 11:6",
+          "kr": "믿음이 없이는 기쁘시게 못하나니 하나님께 나아가는 자는 반드시 그가 계신 것과 또한 그가 자기를 찾는 자들에게 상 주시는 이심을 믿어야 할지니라",
+          "en": "Without faith it is impossible to be well pleasing to him, for he who comes to God must believe that he exists, and that he is a rewarder of those who seek him."
+        },
+        {
+          "ref": "마가복음 9:23",
+          "refEn": "Mark 9:23",
+          "kr": "예수께서 이르시되 `할 수 있거든 이 무슨 말이냐 ? 믿는 자에게는 능치 못할 일이 없느니라 !' 하시니",
+          "en": "Jesus said to him, “If you can believe, all things are possible to him who believes.”"
+        },
+        {
+          "ref": "마가복음 11:24",
+          "refEn": "Mark 11:24",
+          "kr": "그러므로 내가 너희에게 말하노니 무엇이든지 기도하고 구하는 것은 받은 줄로 믿으라 그리하면 너희에게 그대로 되리라",
+          "en": "Therefore I tell you, all things whatever you pray and ask for, believe that you have received them, and you shall have them."
+        },
+        {
+          "ref": "로마서 10:17",
+          "refEn": "Romans 10:17",
+          "kr": "그러므로 믿음은 들음에서 나며 들음은 그리스도의 말씀으로 말미암았느니라",
+          "en": "So faith comes by hearing, and hearing by the word of God."
+        },
+        {
+          "ref": "잠언 3:5",
+          "refEn": "Proverbs 3:5",
+          "kr": "너는 마음을 다하여 여호와를 의뢰하고 네 명철을 의지하지 말라",
+          "en": "Trust in Yahweh with all your heart, and don’t lean on your own understanding."
+        },
+        {
+          "ref": "잠언 3:6",
+          "refEn": "Proverbs 3:6",
+          "kr": "너는 범사에 그를 인정하라 ! 그리하면 네 길을 지도하시리라",
+          "en": "In all your ways acknowledge him, and he will make your paths straight."
+        },
+        {
+          "ref": "고린도후서 5:7",
+          "refEn": "2 Corinthians 5:7",
+          "kr": "이는 우리가 믿음으로 행하고 보는 것으로 하지 아니함이로라",
+          "en": "for we walk by faith, not by sight."
+        },
+        {
+          "ref": "마태복음 17:20",
+          "refEn": "Matthew 17:20",
+          "kr": "가라사대 너희 믿음이 적은 연고니라 진실로 너희에게 이르노니 너희가 만일 믿음이 한 겨자씨만큼만 있으면 이 산을 명하여 여기서 저기로 옮기라 하여도 옮길 것이요 또 너희가 못할 것이 없으리라",
+          "en": "He said to them, “Because of your unbelief. For most certainly I tell you, if you have faith as a grain of mustard seed, you will tell this mountain, ‘Move from here to there,’ and it will move; and nothing will be impossible for you."
+        },
+        {
+          "ref": "에베소서 2:8",
+          "refEn": "Ephesians 2:8",
+          "kr": "너희가 그 은혜를 인하여 믿음으로 말미암아 구원을 얻었나니 이것이 너희에게서 난 것이 아니요 하나님의 선물이라",
+          "en": "for by grace you have been saved through faith, and that not of yourselves; it is the gift of God,"
+        },
+        {
+          "ref": "시편 46:10",
+          "refEn": "Psalms 46:10",
+          "kr": "이르시기를 너희는 가만히 있어 내가 하나님 됨을 알찌어다 ! 내가 열방과 세계중에서 높임을 받으리라 하시도다",
+          "en": "“Be still, and know that I am God. I will be exalted among the nations. I will be exalted in the earth.”"
+        },
+        {
+          "ref": "야고보서 1:6",
+          "refEn": "James 1:6",
+          "kr": "오직 믿음으로 구하고 조금도 의심하지 말라 의심하는 자는 마치 바람에 밀려 요동하는 바다 물결 같으니",
+          "en": "But let him ask in faith, without any doubting, for he who doubts is like a wave of the sea, driven by the wind and tossed."
+        }
+      ]
+    },
+    {
+      "id": "loneliness",
+      "label": "외로움",
+      "icon": "🌙",
+      "verses": [
+        {
+          "ref": "신명기 31:8",
+          "refEn": "Deuteronomy 31:8",
+          "kr": "여호와 그가 네 앞서 행하시며 너와 함께 하사 너를 떠나지 아니하시며 버리지 아니하시리니 너는 두려워 말라 ! 놀라지 말라",
+          "en": "Yahweh himself is who goes before you. He will be with you. He will not fail you nor forsake you. Don’t be afraid. Don’t be discouraged.”"
+        },
+        {
+          "ref": "여호수아 1:9",
+          "refEn": "Joshua 1:9",
+          "kr": "내가 네게 명한 것이 아니냐 ? 마음을 강하게 하고 담대히 하라 ! 두려워 말며 놀라지 말라 ! 네가 어디로 가든지 네 하나님 여호와가 너와 함께 하느니라 ! 하시니라",
+          "en": "Haven’t I commanded you? Be strong and courageous. Don’t be afraid. Don’t be dismayed, for Yahweh your GodThe Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim). is with you wherever you go.”"
+        },
+        {
+          "ref": "시편 68:6",
+          "refEn": "Psalms 68:6",
+          "kr": "하나님은 고독한 자로 가속 중에 처하게 하시며 수금된 자를 이끌어 내사 형통케 하시느니라 오직 거역하는 자의 거처는 메마른 땅이로다",
+          "en": "God sets the lonely in families. He brings out the prisoners with singing, but the rebellious dwell in a sun-scorched land."
+        },
+        {
+          "ref": "시편 25:16",
+          "refEn": "Psalms 25:16",
+          "kr": "주여, 나는 외롭고 괴롭사오니 내게 돌이키사 나를 긍휼히 여기소서",
+          "en": "Turn to me, and have mercy on me, for I am desolate and afflicted."
+        },
+        {
+          "ref": "시편 23:4",
+          "refEn": "Psalms 23:4",
+          "kr": "내가 사망의 음침한 골짜기로 다닐지라도 해를 두려워하지 않을것은 주께서 나와 함께 하심이라 주의 지팡이와 막대기가 나를 안위하시나이다",
+          "en": "Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me. Your rod and your staff, they comfort me."
+        },
+        {
+          "ref": "시편 27:10",
+          "refEn": "Psalms 27:10",
+          "kr": "내 부모는 나를 버렸으나 여호와는 나를 영접하시리이다",
+          "en": "When my father and my mother forsake me, then Yahweh will take me up."
+        },
+        {
+          "ref": "시편 139:7",
+          "refEn": "Psalms 139:7",
+          "kr": "내가 주의 신을 떠나 어디로 가며 주의 앞에서 어디로 피하리이까",
+          "en": "Where could I go from your Spirit? Or where could I flee from your presence?"
+        },
+        {
+          "ref": "시편 139:8",
+          "refEn": "Psalms 139:8",
+          "kr": "내가 하늘에 올라갈지라도 거기 계시며 음부에 내 자리를 펼지라도 거기 계시니이다",
+          "en": "If I ascend up into heaven, you are there. If I make my bed in Sheol,Sheol is the place of the dead. behold, you are there!"
+        },
+        {
+          "ref": "이사야 41:10",
+          "refEn": "Isaiah 41:10",
+          "kr": "두려워 말라 내가 너와 함께 함이니라 놀라지 말라 나는 네 하나님이 됨이니라 내가 너를 굳세게 하리라 참으로 너를 도와 주리라 참으로 나의 의로운 오른손으로 너를 붙들리라",
+          "en": "Don’t you be afraid, for I am with you. Don’t be dismayed, for I am your God. I will strengthen you. Yes, I will help you. Yes, I will uphold you with the right hand of my righteousness."
+        },
+        {
+          "ref": "이사야 49:15",
+          "refEn": "Isaiah 49:15",
+          "kr": "여인이 어찌 그 젖먹는 자식을 잊겠으며 자기 태에서 난 아들을 긍휼히 여기지 않겠느냐 그들은 혹시 잊을지라도 나는 너를 잊지아니할 것이라",
+          "en": "“Can a woman forget her nursing child, that she should not have compassion on the son of her womb? Yes, these may forget, yet I will not forget you!"
+        },
+        {
+          "ref": "마태복음 28:20",
+          "refEn": "Matthew 28:20",
+          "kr": "내가 너희에게 분부한 모든 것을 가르쳐 지키게 하라 볼지어다 ! 내가 세상 끝날까지 너희와 항상 함께 있으리라 ! 하시니라",
+          "en": "teaching them to observe all things that I commanded you. Behold, I am with you always, even to the end of the age.” Amen."
+        },
+        {
+          "ref": "히브리서 13:5",
+          "refEn": "Hebrews 13:5",
+          "kr": "돈을 사랑치 말고 있는 바를 족한 줄로 알라 그가 친히 말씀하시기를 내가 과연 너희를 버리지 아니하고 과연 너희를 떠나지 아니하리라 하셨느니라",
+          "en": "Be free from the love of money, content with such things as you have, for he has said, “I will in no way leave you, neither will I in any way forsake you.”Deuteronomy 31:6"
+        }
+      ]
+    }
+  ]
+}
