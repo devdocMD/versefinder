@@ -150,6 +150,31 @@ header h1 {
   font-style: normal;
 }
 
+/* Action buttons (copy / share) */
+.btn-actions {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 28px;
+}
+
+.btn-action {
+  padding: 8px 22px;
+  border: 1.5px solid #d9d2c9;
+  border-radius: 20px;
+  background: #faf8f5;
+  font-family: 'Noto Serif KR', serif;
+  font-size: 0.82rem;
+  color: #6b5b4e;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.btn-action:hover {
+  background: #f5f1ec;
+  border-color: #b0a594;
+}
+
 /* Another verse button */
 .btn-another {
   display: block;

@@ -1,6 +1,7 @@
 (() => {
   let data = null;
   let currentCatId = null;
+  let currentVerse = null;
   let history = {}; // categoryId -> array of shown indices
   const FADE_MS = 350;
 
@@ -58,6 +59,7 @@
     const cat = data.categories.find((c) => c.id === currentCatId);
     const idx = pickRandomIndex(currentCatId);
     const verse = cat.verses[idx];
+    currentVerse = verse;
 
     // Fade out, swap content, fade in
     verseContent.classList.add("fade-out");
@@ -69,6 +71,10 @@
         <hr class="verse-divider">
         <p class="verse-en">${verse.en}</p>
         <span class="verse-ref-en">— ${verse.refEn}</span>
+        <div class="btn-actions">
+          <button class="btn-action btn-copy" onclick="window.__copyVerse(this)">복사</button>
+          <button class="btn-action btn-share" onclick="window.__shareVerse()">공유</button>
+        </div>
         <button class="btn-another" onclick="window.__nextVerse()">다른 말씀 찾기</button>
       `;
       verseContent.classList.remove("fade-out");
@@ -78,6 +84,27 @@
   // Expose for inline onclick
   window.__nextVerse = () => {
     if (currentCatId) showRandomVerse();
+  };
+
+  window.__copyVerse = (btn) => {
+    if (!currentVerse) return;
+    const text = `${currentVerse.kr}\n— ${currentVerse.ref}\n\n${currentVerse.en}\n— ${currentVerse.refEn}`;
+    navigator.clipboard.writeText(text).then(() => {
+      const original = btn.textContent;
+      btn.textContent = "복사됨!";
+      setTimeout(() => { btn.textContent = original; }, 1500);
+    });
+  };
+
+  window.__shareVerse = () => {
+    if (!currentVerse) return;
+    const text = `${currentVerse.kr}\n— ${currentVerse.ref}\n\n${currentVerse.en}\n— ${currentVerse.refEn}`;
+    if (navigator.share) {
+      navigator.share({ title: "오늘의 말씀", text });
+    } else {
+      const btn = document.querySelector(".btn-copy");
+      if (btn) window.__copyVerse(btn);
+    }
   };
 
   init();
